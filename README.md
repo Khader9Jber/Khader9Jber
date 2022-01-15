@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, my name is Arturs
+#### I am a Software Developer & Cyber Security Engineer 👨🏻‍💻
+
+Skills: HTML / CSS / JS / JAVA / Spring / Spring Boot / Dart / Flutter / Python / C / C++
+
+- 🔭 I’m currently working on this page. 
+
