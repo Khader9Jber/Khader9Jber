@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### my name is Arturs
+### my name is Khader
 #### I am a Software Developer & Cyber Security Engineer 👨🏻‍💻
 
 Skills: HTML / CSS / JS / JAVA / Spring / Spring Boot / Dart / Flutter / Python / C / C++
