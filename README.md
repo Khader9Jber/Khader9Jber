@@ -1,6 +1,6 @@
 ## `print('Hi there, I'm Khader!')` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I'm a Software Developer and Cyber Information Security Engineer - I study at University College of Applied Sciences (UCAS).
+I am a college student with deep programming experience living with the goal to be the best, I have the ambition and the spirit for it.
 
 #### Programming Language & Tools:
 
