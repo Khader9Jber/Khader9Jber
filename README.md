@@ -12,11 +12,11 @@ I am a college student with deep experience in Software Development and some oth
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=45) ![Oracle](https://img.icons8.com/color/45/oracle-logo.png)![MongoDB](https://img.icons8.com/color/45/mongodb.png)![Docker](https://img.icons8.com/color/45/docker.png)![Kubernetes](https://img.icons8.com/color/45/kubernetes.png)![Git](https://img.icons8.com/color/45/git.png)![Gitlab](https://img.icons8.com/color/45/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=45)![Bitbucket](https://img.icons8.com/color/45/bitbucket.png)![Console](https://img.icons8.com/color/45/console.png)![CMD](https://img.icons8.com/?id=19291&size=45)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=45) ![Oracle](https://img.icons8.com/color/45/oracle-logo.png)![MongoDB](https://img.icons8.com/color/45/mongodb.png)![Docker](https://img.icons8.com/color/45/docker.png)![Kubernetes](https://img.icons8.com/color/45/kubernetes.png)![Git](https://img.icons8.com/color/45/git.png)![Gitlab](https://img.icons8.com/color/45/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=45)![Bitbucket](https://img.icons8.com/color/45/bitbucket.png)
 
 ## Tools
 
-![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=45)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=45)![VirtualBox](https://img.icons8.com/?id=38792&size=45)![Jetbrains Products](https://img.icons8.com/color/45/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=45)![PyCharm](https://img.icons8.com/?id=117121&size=45)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=45)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=45)![VSCode](https://img.icons8.com/color/45/visual-studio-code-2019.png)
+![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=45)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=45)![VirtualBox](https://img.icons8.com/?id=38792&size=45)![Jetbrains Products](https://img.icons8.com/color/45/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=45)![PyCharm](https://img.icons8.com/?id=117121&size=45)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=45)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=45)![VSCode](https://img.icons8.com/color/45/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/45/console.png)![CMD](https://img.icons8.com/?id=19291&size=45)
 
 ## Operating Systems & Distributions
 
