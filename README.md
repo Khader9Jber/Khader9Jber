@@ -1,13 +1,17 @@
-# `print('Hi there, I'm Khader!')` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
+# `echo "Hi there, I'm Khader!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I am a college student with deep programming experience living with the goal to be the best, I have the ambition and the spirit for this.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khader.jber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-karaja/)
 
-## Programming Language & Tools:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Cybersecurity+Engineer;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-[![Python Badge](https://img.shields.io/badge/-PYTHON-FCC71E?style=for-the-badge&labelColor=black&logo=python&logoColor=FCC71E)]() [![Java Badge](https://img.shields.io/badge/-JAVA-E62B29?style=for-the-badge&labelColor=black&logo=java&logoColor=E62B29)]()
-[![Dart Badge](https://img.shields.io/badge/-DART-00AEA4?style=for-the-badge&labelColor=black&logo=dart&logoColor=00AEA4)]() [![SQL Badge](https://img.shields.io/badge/-SQL-DF7610?style=for-the-badge&labelColor=black&logo=mysql&logoColor=DF7610)]()[![HTML Badge](https://img.shields.io/badge/-HTML5-E46F50?style=for-the-badge&labelColor=black&logo=html5&logoColor=E46F50)]() [![CSS Badge](https://img.shields.io/badge/-CSS3-0277BD?style=for-the-badge&labelColor=black&logo=css3&logoColor=0277BD)]()
-<br />[![Javafx Badge](https://img.shields.io/badge/-JavaFx-E62B29?style=for-the-badge&labelColor=black&logo=java&logoColor=E62B29)](#) [![Manjaro Badge](https://img.shields.io/badge/-Linux_OS-00AEA4?style=for-the-badge&labelColor=black&logo=manjaro&logoColor=00AEA4)](#) [![git Badge](https://img.shields.io/badge/-Github-7C258B?style=for-the-badge&labelColor=black&logo=github&logoColor=7C258B)](#) [![VsCode Badge](https://img.shields.io/badge/-VsCode-0277BD?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0277BD)](#)
+I am a college student with deep experience in Software Development and some other fields, living with the goal to be the best, and I have the ambition and the spirit for this!
+
+## Technologies
+
+![HTML5](https://img.icons8.com/color/45/html-5.png)![CSS3](https://img.icons8.com/color/45/css3.png)![JavaScript](https://img.icons8.com/color/45/javascript.png)![SASS](https://img.icons8.com/color/45/sass.png)![Git](https://img.icons8.com/color/45/git.png)![Github](https://img.icons8.com/material-outlined/45/github.png)![Bitbucket](https://img.icons8.com/color/45/bitbucket.png)![Gitlab](https://img.icons8.com/color/45/gitlab.png)![VSCode](https://img.icons8.com/color/45/visual-studio-code-2019.png)![Flutter](https://img.icons8.com/color/45/flutter.png)![Windows](https://img.icons8.com/color/45/windows-10.png)![Linux](https://img.icons8.com/color/45/linux.png)![Ubuntu](https://img.icons8.com/color/45/ubuntu--v1.png)![Kali Linux](https://img.icons8.com/color/45/kali-linux.png)![Console](https://img.icons8.com/color/45/console.png)
 
 ## Github Stats:
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Khader9Jber&count_private=true&theme=tokyonight&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khader9Jber&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs,issues)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader9Jber&layout=compact)](https://github.com/Khader9Jber/github-readme-stats) -->
