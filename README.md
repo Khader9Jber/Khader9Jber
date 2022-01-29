@@ -1,4 +1,4 @@
-# `echo "Hi there, I'm Khader!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
+# `echo "Hi there, I'm Khader!" > Visitor.hello` <img src="https://user-images.githubusercontent.com/1303154/88677602-1640ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khader.jber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-karaja/)
 
@@ -8,15 +8,15 @@ I am a college student with deep experience in Software Development and some oth
 
 ## Programming Languages & Frameworks
 
-![HTML5](https://img.icons8.com/color/40/html-5.png)![CSS3](https://img.icons8.com/color/40/css3.png)![JavaScript](https://img.icons8.com/color/40/javascript.png)![SASS](https://img.icons8.com/color/40/sass.png)![Python](https://img.icons8.com/color/40/python--v1.png)![C](https://img.icons8.com/color/40/c-programming.png)![Cpp](https://img.icons8.com/color/40/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/40/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=45)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/40/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Dart](https://img.icons8.com/color/40/dart.png)![Flutter](https://img.icons8.com/color/40/flutter.png)
+![HTML5](https://img.icons8.com/color/40/html-5.png)![CSS3](https://img.icons8.com/color/40/css3.png)![JavaScript](https://img.icons8.com/color/40/javascript.png)![SASS](https://img.icons8.com/color/40/sass.png)![Python](https://img.icons8.com/color/40/python--v1.png)![C](https://img.icons8.com/color/40/c-programming.png)![Cpp](https://img.icons8.com/color/40/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/40/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=40)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/40/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Dart](https://img.icons8.com/color/40/dart.png)![Flutter](https://img.icons8.com/color/40/flutter.png)
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=45) ![Oracle](https://img.icons8.com/color/40/oracle-logo.png)![MongoDB](https://img.icons8.com/color/40/mongodb.png)![Docker](https://img.icons8.com/color/40/docker.png)![Kubernetes](https://img.icons8.com/color/40/kubernetes.png)![Git](https://img.icons8.com/color/40/git.png)![Gitlab](https://img.icons8.com/color/40/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=45)![Bitbucket](https://img.icons8.com/color/40/bitbucket.png)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=40) ![Oracle](https://img.icons8.com/color/40/oracle-logo.png)![MongoDB](https://img.icons8.com/color/40/mongodb.png)![Docker](https://img.icons8.com/color/40/docker.png)![Kubernetes](https://img.icons8.com/color/40/kubernetes.png)![Git](https://img.icons8.com/color/40/git.png)![Gitlab](https://img.icons8.com/color/40/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=40)![Bitbucket](https://img.icons8.com/color/40/bitbucket.png)
 
 ## Tools
 
-![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=45)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=45)![VirtualBox](https://img.icons8.com/?id=38792&size=45)![Jetbrains Products](https://img.icons8.com/color/40/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=45)![PyCharm](https://img.icons8.com/?id=117121&size=45)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=45)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=45)![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/40/console.png)![CMD](https://img.icons8.com/?id=19291&size=45)
+![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=40)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=40)![VirtualBox](https://img.icons8.com/?id=38792&size=40)![Jetbrains Products](https://img.icons8.com/color/40/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=40)![PyCharm](https://img.icons8.com/?id=117121&size=40)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=40)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=40)![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/40/console.png)![CMD](https://img.icons8.com/?id=19291&size=40)
 
 ## Operating Systems & Distributions
 
