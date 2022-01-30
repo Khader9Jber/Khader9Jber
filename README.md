@@ -22,7 +22,7 @@ I am a college student with deep experience in Software Development and some oth
 
 ![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)
 
-## Github Stats:
+## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khader9Jber&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs,issues)
 
