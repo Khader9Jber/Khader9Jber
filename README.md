@@ -27,3 +27,5 @@ I am a college student with deep experience in Software Development and some oth
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khader9Jber&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs,issues)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader9Jber&layout=compact)](https://github.com/Khader9Jber/github-readme-stats) -->
+
+![Google IT Support Professional Certificate](google-it-support-certificate.png)![Google IT Support Professional Certificate](google-project-management-professional-certificate.1.png)![Google IT Support Professional Certificate](cyber-security-foundation-professional-certificate-csfpc.png)
