@@ -28,6 +28,6 @@ I am a college student with deep experience in Software Development and some oth
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader9Jber&layout=compact)](https://github.com/Khader9Jber/github-readme-stats) -->
 
-## Professional Certificates Badges
+## Professional Certificate Badges
 
 ![Google IT Support Professional Certificate](google-it-support-certificate.png)![Google Project Management Professional Certificate](google-project-management-professional-certificate.1.png)![Cyber Security Foundation Professional Certificate - CSFPC™](cyber-security-foundation-professional-certificate-csfpc.png)
