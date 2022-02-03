@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khader.jber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-karaja/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Software+Developer;Cybersecurity+Engineer;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Software+Engineer;Cybersecurity+Specialist;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 I am a college student with deep experience in Software Development and some other fields, living with the goal to be the best, and I have the ambition and the spirit for this!
 
