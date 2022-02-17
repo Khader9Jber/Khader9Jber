@@ -8,7 +8,7 @@ I am a college student with deep experience in Software Development and some oth
 
 ## Programming Languages & Frameworks
 
-![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Python](https://img.icons8.com/color/35/python--v1.png)![C](https://img.icons8.com/color/35/c-programming.png)![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)
+![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Python](https://img.icons8.com/color/35/python--v1.png)![C](https://img.icons8.com/color/35/c-programming.png)![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![NodeJS](https://img.icons8.com/fluency/35/node-js.png)![VueJS](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png)![ReactJS](https://img.icons8.com/plasticine/35/react.png)![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
 
 ## Technologies
 
@@ -16,7 +16,7 @@ I am a college student with deep experience in Software Development and some oth
 
 ## Tools
 
-![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
+![Notion](https://img.icons8.com/ios/35/notion.png)![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
 
 ## Operating Systems & Distributions
 
