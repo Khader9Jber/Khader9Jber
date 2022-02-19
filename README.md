@@ -15,7 +15,7 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 
 ![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
-## Tools
+## Tools & SWs
 
 ![Notion](https://img.icons8.com/ios/35/notion.png)![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)![VMware](https://img.icons8.com/?id=mkkp6yt38FVq&size=35)![VirtualBox](https://img.icons8.com/?id=38792&size=35)![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)![IntelliJ IDEA](https://img.icons8.com/?id=61466&size=35)![PyCharm](https://img.icons8.com/?id=117121&size=35)![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)![SceneBuilder](https://img.icons8.com/?id=BZz399uT6eo0&size=35&color=000000)![Eclipse](https://img.icons8.com/office/35/java-eclipse.png)![Anaconda](https://img.icons8.com/fluency/35/anaconda--v2.png)![Console](https://img.icons8.com/color/35/console.png)![CMD](https://img.icons8.com/?id=19291&size=35)
 
