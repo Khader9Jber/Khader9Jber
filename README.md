@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Competitive+Programmer;Software+Engineer;Project+Manager;Cybersecurity+Specialist;and+Problem+Solving+Instructor!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-I am a Software Engineer and Cybersecurity Specialist with deep knowledge in many IT fields. <br/>
+I am a Software Engineer and Cybersecurity Specialist with deep knowledge in many IT fields. 
+<br/>
 Living with the goal to be the best... and I have the ambition and the spirit for this.
 
 ## Programming Languages & Frameworks
