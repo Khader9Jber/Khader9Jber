@@ -24,7 +24,7 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 
 ![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)
 
-## Github Summary
+## GitHub Summary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader9Jber&layout=compact&theme=chartreuse-dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
