@@ -14,7 +14,7 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)<!--<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>-->![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
 ## Tools & SWs
 
