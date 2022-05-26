@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khader.jber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khader-karaja/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Project+Management;Software+Development;Problem+Solving;Competitive+Programming;Penetration+Testing;Malware+Analysis;and+Cybersecurity+Engineering!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Project+Management;Software+Development;Problem+Solving;Competitive+Programming;Red+Teaming;Ethical+Hacking;Penetration+Testing;Malware+Analysis;and+Cybersecurity+Engineering!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 I am a Software Engineer and Cybersecurity Specialist with deep knowledge in many IT fields. 
 <br/>
