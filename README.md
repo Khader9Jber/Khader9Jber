@@ -22,7 +22,7 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 
 ## Operating Systems & Distributions
 
-![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)<code><img height="45" src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
+![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)<code>![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)</code><code><img height="35" src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="35"></code>
 
 
 ## GitHub Summary
