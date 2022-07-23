@@ -22,13 +22,13 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 
 ## Operating Systems & Distributions
 
-<code>![Windows](https://img.icons8.com/color/35/windows-10.png)</code> 
-<code>![Linux](https://img.icons8.com/color/35/linux.png)</code> 
-<code>![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)</code>
-<code>![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)</code> 
-<code><img height="35" src="https://github.com/fireeye/commando-vm/blob/master/Commando.png" height="35"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="35"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/8752987?s=200&v=4" height="35"></code>
+<code>![Windows](https://img.icons8.com/color/40/windows-10.png)</code> 
+<code>![Linux](https://img.icons8.com/color/40/linux.png)</code> 
+<code>![Ubuntu](https://img.icons8.com/color/40/ubuntu--v1.png)</code>
+<code>![Kali Linux](https://img.icons8.com/color/40/kali-linux.png)</code> 
+<code><img src="https://github.com/fireeye/commando-vm/blob/master/Commando.png" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="40"></code>
+<code><img src="https://avatars.githubusercontent.com/u/8752987?s=200&v=4" height="40"></code>
 
 
 ## GitHub Summary
