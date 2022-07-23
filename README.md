@@ -29,8 +29,7 @@ Living with the goal to be the best... and I have the ambition and the spirit fo
 <code><img src="https://github.com/fireeye/commando-vm/blob/master/Commando.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="40"></code>
 <code><img src="https://avatars.githubusercontent.com/u/8752987?s=200&v=4" height="40"></code>
-<code><img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" height="40"></code>
-
+<!-- <code><img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" height="40"></code>-->
 
 ## GitHub Summary
 
